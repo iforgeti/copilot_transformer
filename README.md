@@ -2,7 +2,12 @@
 
 what new from previous code copilot project (LSTM)
 * change tokenizer from spacy to hugging face tokenizer (based on the codeparrot/codeparrot-small pre-trained model)
-* used only decoder part from transfromers architecture 
+* used only decoder part from transfromers architecture
+
+other detail
+
+* train for 5 hr
+* dataset from huggingface-course/codeparrot-ds-train (used just 2.5 % from full datasets)
 
 ## Review
 
