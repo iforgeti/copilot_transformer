@@ -1,7 +1,7 @@
 # copilot_transformer
 
 what new from previous code copilot project (LSTM)
-* change tokenizer from spacy to hugging face tokenizer -> codeparrot/codeparrot-small
+* change tokenizer from spacy to hugging face tokenizer (based on the codeparrot/codeparrot-small pre-trained model)
 * used only decoder part from transfromers architecture 
 
 ## Review
